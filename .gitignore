@@ -1,0 +1,5 @@
+*.csv
+*.docx
+*.labeled
+
+.ipynb_checkpoints
