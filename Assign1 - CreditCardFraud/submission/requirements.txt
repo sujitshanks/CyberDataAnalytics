@@ -1,0 +1,11 @@
+jupyter
+numpy
+pandas
+sklearn
+imbalanced-learn
+xgboost
+matplotlib
+seaborn
+
+
+

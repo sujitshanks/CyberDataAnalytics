@@ -1,0 +1,15 @@
+pdb
+tqdm
+scipy
+numpy
+pandas
+jupyter
+sklearn
+seaborn
+matplotlib
+hmmlearn
+mmh3
+
+
+
+
